@@ -1,0 +1,5 @@
+C:\projects\job4j_finder\.idea\checkstyleidea-libs\readme.txt
+C:\projects\job4j_finder\date\log.txt
+C:\projects\job4j_finder\date\test\test1.tst
+C:\projects\job4j_finder\date\test\test2.txt
+C:\projects\job4j_finder\date\test\test3\test4.txt
