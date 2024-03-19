@@ -54,7 +54,7 @@ public class Finder {
     public static void writeFiles(List<Path> files, String writeToFile) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(writeToFile))) {
             for (Path file : files) {
-                writer.write(file.toString() + "\n");
+                writer.write(file.toString() + System.lineSeparator());
             }
         } catch (IOException e) {
             e.printStackTrace();
